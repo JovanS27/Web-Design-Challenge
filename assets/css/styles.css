@@ -1,0 +1,76 @@
+.latitude_text{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.link_fonts{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.current_link{
+    font-weight:bold;
+}
+
+.main_background{
+    background-color: #ccc6c6;
+}
+
+.section_background{
+    background-color: white;
+    margin-top:50px;
+    /* margin-left:10px; */
+}
+
+p{
+    font-size:16px
+}
+
+.small_visualisations{
+    /* max-width: 40%;
+    max-height: 40%; */
+    width: 150px;
+    height: 100px;
+    margin:4.5%
+    /* display: block; remove extra space below image */
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.comparison-plots{
+    width: 90%;
+    height: 90%;
+}
+
+.background-white{
+    background-color: white;
+    margin-top:25px;
+}
+
+.title_text{
+    color: #03776c;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-size: 40px;
+    text-align: center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.center-text{text-align: center;}
+
+.plots{
+    width: 90%;
+    height: 90%;
+    align-items: center;
+}
+
+.border_green{
+    border: 3px solid #03776c
+    
+}
